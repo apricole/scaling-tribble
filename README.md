@@ -1,3 +1,3 @@
 # Scaling Tribble
 
-A climbing tribble.
+A climbing tribble!
